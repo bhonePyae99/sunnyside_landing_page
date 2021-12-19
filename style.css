@@ -283,7 +283,11 @@ nav ul li {
 }
 
 @media (max-width: 375px) {
-  #arrowDown {
-    top: 325px;
+  .showcase {
+    background: url(./images/mobile/image-header.jpg) no-repeat center;
+    background-size: cover;
+  }
+  .client-grid-item {
+    padding: 2rem 2.5rem;
   }
 }
