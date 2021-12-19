@@ -281,3 +281,9 @@ nav ul li {
     margin-top: 170px;
   }
 }
+
+@media (max-width: 375px) {
+  #arrowDown {
+    top: 350px;
+  }
+}
